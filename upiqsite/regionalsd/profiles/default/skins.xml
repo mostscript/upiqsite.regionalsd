@@ -1,0 +1,10 @@
+<object name="portal_skins">
+  <object
+    name="upiqsite_regionalsd"
+    meta_type="Filesystem Directory View"
+    directory="upiqsite.regionalsd:skins/upiqsite_regionalsd"
+    />
+  <skin-path name="Sunburst Theme">
+    <layer name="upiqsite_regionalsd" insert-after="custom" />
+  </skin-path>
+</object>

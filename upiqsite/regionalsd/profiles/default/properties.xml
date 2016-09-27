@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <site>
-  <property name="title">BASE Quality Improvement TeamSpace</property>
+  <property name="title">Regional Health Quality Improvement TeamSpace</property>
   <property name="description">Project and team workspaces for quality improvement.</property>
   <property name="email_from_address"
-     type="string">base@example.com</property>
+     type="string">regionalhealth@teamspace.upiq.org</property>
   <property name="email_from_name"
-     type="string">BASE QI Workspaces Administrator</property>
+     type="string">Regional Health QI Workspaces Administrator</property>
   <property name="default_page" type="string">front-page</property>
 </site>

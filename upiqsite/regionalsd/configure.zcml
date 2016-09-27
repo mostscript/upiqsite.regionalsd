@@ -15,9 +15,9 @@
 
   <!-- site style sheet -->
   <browser:resource
-    name="base_site.css"
-    file="base_site.css"
-    layer="upiqsite.base.interfaces.IBaseSiteProductLayer"
+    name="regionalsd_site.css"
+    file="regionalsd_site.css"
+    layer="upiqsite.regionalsd.interfaces.IRegionalSDSiteProductLayer"
     />
 
 </configure>

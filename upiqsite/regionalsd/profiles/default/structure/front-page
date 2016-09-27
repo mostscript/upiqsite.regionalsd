@@ -1,6 +1,6 @@
 id: front-page
-title: BASE TeamSpace Collaboration Site
-description: Welcome to the TeamSpace collaboration site
+title: Regional Health TeamSpace Collaboration Site
+description: Welcome to our QI TeamSpace collaboration site
 Content-Type: text/html
 
 <h3><br /></h3>
@@ -29,10 +29,8 @@ Content-Type: text/html
 <p class="callout">
     <b>
         If you have questions about QI Teamspace, please contact project staff 
-        by e-mail at <a href="mailto:info@example.org">info@example.org</a>.
+        by e-mail at <a href="mailto:regionalhealth@teamspace.upiq.org">regionalhealth@teamspace.upiq.org</a>.
         <br /><br />
-        For more information, please visit 
-        <a href="http://www.example.org" target="_blank">our main site</a>.
     </b>
 </p>
 
